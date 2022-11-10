@@ -1,0 +1,5 @@
+Einkaufsliste:
+- Äfpel
+- Birnen
+- Bananen
+- ...
